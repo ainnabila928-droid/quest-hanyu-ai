@@ -1,0 +1,4 @@
+﻿record_id,unit,section,type,skill,hanzi,pinyin,malay,option_a,option_b,option_c,correct_index,hint,audio_filename,picture_suggestion
+U01-V001,1,activities,choice,vocabulary,,,,,,,0,,,
+U01-L001,1,activities,choice,listening,,,,,,,0,,,
+U01-S001,1,activities,sentence,writing,,,,,,,,,,
